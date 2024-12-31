@@ -18,7 +18,7 @@
 
 [data-aos].aos-animate {
     opacity: 1;
-}<
+}
 @keyframes custom-zoom-in {
     from {
         opacity: 0;
