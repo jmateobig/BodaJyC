@@ -18,7 +18,7 @@
 
 [data-aos].aos-animate {
     opacity: 1;
-}
+}<
 @keyframes custom-zoom-in {
     from {
         opacity: 0;
@@ -381,7 +381,7 @@ body {
     }
 
     .padre, .madre {
-        font-size: 16px;
+        font-size: 15px;
     }
 
     .div-nombre {
